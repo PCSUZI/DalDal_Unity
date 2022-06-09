@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01. Scenes/2D/Main.unity
+    guid: 26ebeecd25e045b44b0fb7140cac42b8
+  - enabled: 1
+    path: Assets/01. Scenes/2D/FishingLoaingScene.unity
+    guid: aa11b0c8ec7145841919a89f9538e745
+  - enabled: 1
+    path: Assets/01. Scenes/3D/3DFishScene_today1.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/01. Scenes/3D/3DFishScene_today5.unity
+    guid: f136f9aa664b7074291c1e6059352d0c
+  - enabled: 1
+    path: Assets/01. Scenes/2D/CookingLoadingScene.unity
+    guid: ca310c6764f88b54184af581fa424d1e
+  - enabled: 1
+    path: Assets/01. Scenes/2D/CookingScene.unity
+    guid: 4cdd93361c5e03a45a0f48ae58227e47
+  - enabled: 1
+    path: Assets/01. Scenes/2D/DayEndLoadingScene.unity
+    guid: 22bf0cb15378c064a8902276b23e0996
+  - enabled: 1
+    path: Assets/01. Scenes/2D/DayFinish.unity
+    guid: 85de0d311de5cb444a4ccfa70d8ce37d
+  - enabled: 1
+    path: Assets/01. Scenes/3D/3DFishScene_today2.unity
+    guid: 737bd32b4c334b843be3af42e57415c3
+  - enabled: 1
+    path: Assets/01. Scenes/3D/3DFishScene_today3.unity
+    guid: a523eca006f46244690d269c139bde15
+  - enabled: 1
+    path: Assets/01. Scenes/3D/3DFishScene_today4.unity
+    guid: b13dc9931a1d19548a64ec4d5ad11680
+  - enabled: 1
+    path: Assets/01. Scenes/3D/opencartoonScene.unity
+    guid: 9d65da122f8307f449110f32f345d233
+  - enabled: 1
+    path: Assets/01. Scenes/2D/Ending1.unity
+    guid: 2d0823680debd464192cdc7659730181
+  - enabled: 1
+    path: Assets/01. Scenes/2D/Ending2.unity
+    guid: c5c304fb62bb5034aa4061da5bdcd7ae
+  - enabled: 1
+    path: Assets/01. Scenes/2D/Ending3.unity
+    guid: 8d1078c41d08b5f43bcb0bde682efd58
+  m_configObjects: {}
